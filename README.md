@@ -1,4 +1,4 @@
-# Nel Bots
+[![Run on Repl.it](https://repl.it/badge/github/xNEL99/nel-bots)](https://repl.it/github/xNEL99/nel-bots)# Nel Bots
 ### Update: My Socks scrapper & checker doesn't works anymore (soon i will launch a newer and better bots version ;P)
 ### Start bots
 ```shell
